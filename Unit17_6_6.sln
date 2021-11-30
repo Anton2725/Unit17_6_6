@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{36ADB5EF-6D38-4EAF-BE27-C94BFA1173DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36ADB5EF-6D38-4EAF-BE27-C94BFA1173DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ADB5EF-6D38-4EAF-BE27-C94BFA1173DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ADB5EF-6D38-4EAF-BE27-C94BFA1173DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ADB5EF-6D38-4EAF-BE27-C94BFA1173DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE53676-8B76-4F3D-B2F6-257D1D3D7CCD}
+	EndGlobalSection
+EndGlobal
